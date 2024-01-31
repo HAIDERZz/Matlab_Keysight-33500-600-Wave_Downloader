@@ -4,6 +4,6 @@ Original project address：https://ww2.mathworks.cn/matlabcentral/fileexchange/3
 
 Changes to this project：
 
-Updated visa function to visadev function
-Add USB Connection
-Add channel control and offset control
+1. Updated visa function to visadev function
+2. Add USB Connection
+3. Add channel control and offset control
